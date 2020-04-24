@@ -12,7 +12,10 @@
         <div class="container">
             <canvas id="line-chart"></canvas>
         </div>
+        <div class="container">
+            <canvas id="pie-chart"></canvas>
+        </div>
 
-        <script src="js/main.js" charset="utf-8"></script>
+        <script src="js/mainapp.js" charset="utf-8"></script>
     </body>
 </html>
